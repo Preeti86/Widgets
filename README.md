@@ -7,4 +7,3 @@ Accordion
 Search
 Dropdown
 
-# Widgets
